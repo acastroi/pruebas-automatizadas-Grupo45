@@ -36,7 +36,7 @@
   <li>Para iniciar los escenarios de prueba se deben seleccionar los enlaces de los archivos que presenta la interfaz Cypress</li>
 </lu>
 
-<h2>Ventajas del software pruebas Cypress</h2>
+<h2>Ventajas del software pruebas de Cypress</h2>
 <lu>
   <li>Es muy flexible y existe bastante documentación en internet</li>
   <li>Facilita la construcción de pruebas al permitir usar un lenguaje de programación como el JavaScript</li>
