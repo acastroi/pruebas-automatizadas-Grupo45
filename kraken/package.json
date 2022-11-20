@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "cucumber-html-reporter": "^5.5.0",
+    "grasshopper": "^0.5.1"
+  },
+  "dependencies": {
+    "kraken-node": "^1.0.24"
+  }
+}
